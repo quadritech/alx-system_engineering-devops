@@ -1,2 +1,2 @@
 #!/bin/bash
-! :mime school
+--mine-type -m school.mgc *
